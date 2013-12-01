@@ -2,11 +2,11 @@
 #############################################################
 #
 #
-####################################################
-#                                                 #
-#           USING AT OWN RISK                    #
-#                                               #
-################################################
+#############################################################
+#                                                           #
+#           USING AT OWN RISK                               #
+#                                                           #
+#############################################################
 #
 ### CONFIGURATION ###
 #
@@ -18,7 +18,6 @@ rarstring="_INCOMPLETE_"
 #
 # filename where releaseinfos are stored (e.g. .message)
 infofile=".message"
-#
 #
 #
 ######### DONT TOUCH ANYTHING BELOW UNLESS YOU KNOW WHAT YOU ARE DOING ##########
